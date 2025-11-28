@@ -79,6 +79,4 @@ g.primMST();
 
 ## RESULT
 
-->Constructs a Minimum Spanning Tree connecting all vertices with the minimum total edge weight.
-
-->Prints the edges and weights included in the MST.
+Thus, the Minimum Spanning Tree (MST) has been successfully verified.
